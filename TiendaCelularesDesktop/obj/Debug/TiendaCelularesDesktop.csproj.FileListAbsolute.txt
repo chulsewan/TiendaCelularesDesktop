@@ -1,0 +1,15 @@
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\TiendaCelularesDesktop.exe.config
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\TiendaCelularesDesktop.exe
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\TiendaCelularesDesktop.pdb
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\EntityFramework.dll
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\EntityFramework.xml
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.csprojAssemblyReference.cache
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.Properties.Resources.resources
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.csproj.GenerateResource.cache
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.csproj.CopyComplete
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.exe
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.pdb
+C:\Users\Harry\Proyectos\TiendaCelularesDesktop\TiendaCelularesDesktop\TiendaCelularesDesktop\obj\Debug\TiendaCelularesDesktop.Migrations.v10.resources
